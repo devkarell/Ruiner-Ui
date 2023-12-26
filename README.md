@@ -22,7 +22,7 @@ _Check the oficial video for a detailed preview from the project_
 
 _See the screenshots below:_
 
-<img src="./assets/readme_assets/Screenshot#1.png">
+<img style="border-radius: 15px; width: 40ex;" src="./assets/readme_assets/Screenshot_1.png">
 
 ## ⤵ Installing..
 
@@ -31,13 +31,15 @@ First, this is a Ui project developed in [Roblox Studio](https://create.roblox.c
 Download the file from "Releases" page or directly on this repo (not recommended):
 
 1. Acess the first page of the repo -> go to section "Releases" -> click on the release you want:
-   <img src="./assets/readme_assets/Install#1.png">
+   <img style="border-radius: 15px; width: 40ex;" src="./assets/readme_assets/Install_1.png">
 
 1. After redirect, click on the link especified in the notes of the release them download the `.zip` file:
-   <img src="./assets/readme_assets/Install#2.png">
+   <img style="border-radius: 15px; width: 40ex;" src="./assets/readme_assets/Install_2.png">
 
 1. Open your studio, then enter on a place, go to `StarterGui` -> \*_right mouse click_ -> `Insert From File..`, select the `.rbxm` file:
-   <img src="./assets/readme_assets/Install#3.png">
+   <img style="border-radius: 15px; width: 40ex;" src="./assets/readme_assets/Install_3.png">
+
+---
 
 ```
 no CMD or especial commands are required to install this project
